@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**qcnooq/qcnooq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Use of the QcNooq project
 The QcNooq project is available for download at the page: www.zonabit.it/QcNooq. Are available separately:
 •	the setup of the QcNooq executable program for Microsoft Windows (QcNooqSetup.exe);
@@ -71,6 +67,10 @@ char buf[100];
 }
 and for any other case, all you have to do is include the appropriate QCP_xxx.h module, allocate the class and call the test. The code inside the classes with the prefix CQCP_ can be modified as desired to study the behaviour of the algorithms in different conditions.
  
+
+<!--
+**qcnooq/qcnooq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 -->

@@ -1,5 +1,4 @@
-### Hi there 👋
-Use of the QcNooq project<br>
+### Use of the QcNooq project<br>
 The QcNooq project is available for download here or at the page: www.zonabit.it/QcNooq. Are available separately:<br>
 •	the setup of the QcNooq executable program for Microsoft Windows (QcNooqSetup.exe);<br>
 •	the source code (QcNooq.zip).<br>

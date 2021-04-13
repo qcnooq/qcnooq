@@ -1,6 +1,6 @@
 ### Hi there 👋
 Use of the QcNooq project<br>
-The QcNooq project is available for download at the page: www.zonabit.it/QcNooq. Are available separately:<br>
+The QcNooq project is available for download here or at the page: www.zonabit.it/QcNooq. Are available separately:<br>
 •	the setup of the QcNooq executable program for Microsoft Windows (QcNooqSetup.exe);<br>
 •	the source code (QcNooq.zip).<br>
 If you don’t want to compile QcNooq, simply install the software and run it to check the output of the emulation code as you read the book.<br>

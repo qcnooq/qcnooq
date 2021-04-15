@@ -2,7 +2,7 @@
 The QcNooq project is available for download here or at the page: www.zonabit.it/QcNooq. Are available separately:<br>
 •	the setup of the QcNooq executable program for Microsoft Windows (QcNooqSetup.exe);<br>
 •	the source code (QcNooq.zip).<br>
-QcNooq is a free toolbox to implement the contents of the book: <i>Quantum Computing for Programmers and Investors</i>, Published by GogLiB in 2020 - ISBN: 9788897527541<br>
+•	a manual explaining thoroughly the source code and quantum algorithms from computer science point of view (QcNooq_Quantum_Computing_User_Guide.pdf).<br>
 If you don’t want to compile QcNooq, simply install the software and run it to check the output of the emulation code as you read the book.<br>
 If you want to compile QcNooq under Windows, unzip QcNooq.zip in any folder and open the project. The source code includes a project for Microsoft Visual Studio (QcNooq.vcproj) in a version from a few years ago. Any recent version of Microsoft Visual Studio will convert the project automatically. The project has 32-bit configuration for compatibility with older versions, but users can easily compile for 64-bit, and will experience some slight increase in execution speed.<br>
 There is also another project (QcNooqConsole.vcproj) that allows you to compile QcNooq as a console application, without a Windows GUI: this does not give any advantage in a Windows environment, but can help the porting of QcNooq as a console application in a different environment.<br>
